@@ -1,0 +1,16 @@
+# Django Web Framework
+django==4.2.11
+
+# Python / Python3 
+python==3.8.10
+
+# Database 
+postgresql==12.18
+ 
+# Library for postgresql python support 
+psycopg2==2.9.9
+# sometimes got error while installing psycopg2 then follow below
+# sudo apt-get install libpq-dev (to install main library support for psycopg2)
+
+# Selenium  
+selenium
